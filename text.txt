@@ -1,0 +1,38 @@
+I'm Harshit Kamriya , a Data Scientist enthusiast and web explorer
+                I specialize in Java,Python and libraries of python used in AI and ML,
+                I Love problem solving and I belive great engineering starts with curiosity
+                and ends with clarity.I belive that "celebrating small wins matters" in long run
+                when your dreams are to big. I bring percision and performance to
+                every code
+
+//
+
+
+Projects
+Coders of Delhi
+In this project I worked of data-cleaning , data-preprocessing and
+                        features like people you may know , the books you may like and many more.
+                        This project is puerly built on python , no python libraries are used.
+
+
+
+Iris flower detection
+
+
+
+                        In this project I worked on iris data set , In which the data of flower is given like sepal
+                        length,sepan width , petal length , petal width and
+                        I used streamlit frame work to deploy this model , In this model 80% data I used for training
+                        and 20% used for testing
+                        you can easily view the predict the flower with changing the all four things
+
+
+Gurgaoon Real State
+
+In this project I worked of california house data of 1990s , to predict the house value
+                        acording to the location and many more factore, In this libraries like numpy,pandas ,
+                        siketlearn, joblib and many more are used
+                        and to predict the most accurate house value random forest model is used , as I tested it and
+                        among all the models available it has given
+                        the best accuracy result.
+
